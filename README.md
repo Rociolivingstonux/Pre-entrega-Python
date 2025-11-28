@@ -1,4 +1,4 @@
-📊 Análisis de Datos: Proyecto Talento Tech
+** 📊 Análisis de Datos: Proyecto Talento Tech **
 
 Nota: Este proyecto es parte de la pre-entrega para el curso de Ciencia de Datos en Talento Tech.
 
